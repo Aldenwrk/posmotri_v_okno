@@ -234,9 +234,9 @@ ol {
   width: 15px;
   height: 15px;
   display: block;
-  position: absolute;
+  position: relative;
   top: 1.5px;
-  left: 2px;
+  left: 1.5px;
 }
 
 .search-form__submit-button {
